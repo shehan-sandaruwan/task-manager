@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, Clone the repository
+Ensure you have node version [`18.18.0`] or above
 
 ```bash
 git clone https://github.com/shehan-sandaruwan/task-manager.git
@@ -16,7 +17,6 @@ cd task-manager
 ```
 
 Run the development server:
-Ensure you have node version [`18.18.0`] or above
 
 ```bash
 npm run dev
