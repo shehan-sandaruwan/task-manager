@@ -1,0 +1,15 @@
+.task-filter {
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  appearance: none;
+  background-image: url("/filter.svg");
+  background-repeat: no-repeat;
+  background-position: right 0.7rem top 50%;
+  background-size: 1.25rem auto;
+}
+
+.task-filter:active,
+.task-filter:focus,
+.task-filter:focus-visible {
+  outline: none;
+}
